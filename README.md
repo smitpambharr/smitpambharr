@@ -82,10 +82,9 @@ I work across the full analytics stack — SQL for extraction, Python for analys
 
 <div align="center">
 
-![Smit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smitpambharr&show_icons=true&theme=default&hide_border=true&title_color=1B4F72&icon_color=E97627&text_color=333333)
+![Smit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smitpambharr&show_icons=true&theme=default&hide_border=true&title_color=1B4F72&icon_color=E97627&text_color=333333&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smitpambharr&layout=compact&theme=default&hide_border=true&title_color=1B4F72&text_color=333333)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smitpambharr&layout=compact&theme=default&hide_border=true&title_color=1B4F72&text_color=333333&langs_count=6)
 </div>
 
 ---
